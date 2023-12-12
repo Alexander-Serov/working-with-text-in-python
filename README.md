@@ -10,3 +10,4 @@ Python 101: working with text in python
 6. Hit the "Search" button
 7. When loaded, click the "start.ipynb" file.
 8. When the file opens, go to "Runtime -> Run All". If asked, accept the warning: "Run anyway".
+9. You should see a message saying that the data is loaded correctly.
